@@ -46,6 +46,6 @@ You can use this macropad to:
 | Qty | Part |
 |-----|------|
 | 1x  | Seeeduino XIAO RP2040 |
-| 4x | Kailh Choc V2 switches |
+| 4x | Cherry MX Switches |
 | 2x  | SK6812-MINI-E LEDs |
 | 4x  | M3 screws and matching nuts |
