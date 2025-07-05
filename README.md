@@ -26,9 +26,9 @@ Here are pictures of my PCB:
 - [x] I ran DRC and there are 0 errors ✅
 
 ## CAD
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/c56ce9fb-0561-4e38-81fe-9cd359300e12)
 Designed using Onshape.  
-Everything fits together with 4x M3 screws and nuts.
+Everything fits together with 4x M3 screws and nuts. I added holes for the leds.
 
 ## Firmware
 
@@ -49,3 +49,4 @@ You can use this macropad to:
 | 4x | Cherry MX Switches |
 | 2x  | SK6812-MINI-E LEDs |
 | 4x  | M3 screws and matching nuts |
+| 1x  | EC11 Rotary encoders |
